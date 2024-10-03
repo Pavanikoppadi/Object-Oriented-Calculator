@@ -1,2 +1,2 @@
-# calculator--using-python
+# calculator-using-python
 Build a Calculator  using Python
